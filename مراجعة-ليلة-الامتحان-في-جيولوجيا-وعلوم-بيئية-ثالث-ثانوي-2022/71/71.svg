@@ -1,0 +1,33 @@
+<svg viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="c0_71"><path d="M-.2 825.3V-.2H1467V825.3Z"/></clipPath>
+<clipPath id="c1_71"><path d="M20.8 768.5V282.7H558V768.5Z"/></clipPath>
+<style>
+.g0_71{fill:#DEEBF7;}
+.g1_71{fill:none;stroke:#200CB4;stroke-width:1.145;stroke-linejoin:round;}
+.g2_71{fill:none;stroke:#00C;stroke-width:1.145;stroke-linejoin:round;}
+.g3_71{fill:#00C;}
+.g4_71{fill:none;stroke:#2F528F;stroke-width:1.527;stroke-miterlimit:8;}
+.g5_71{fill:none;stroke:#F00;stroke-width:1.145;stroke-linejoin:round;}
+</style>
+</defs>
+<g clip-path="url(#c0_71)">
+<image preserveAspectRatio="none" x="-14" y="0" width="1495" height="825" href="img/1.jpg"/>
+<image preserveAspectRatio="none" x="399" y="36" width="752" height="94" href="img/2.png"/>
+<image preserveAspectRatio="none" x="314" y="36" width="141" height="94" href="img/3.png"/>
+</g>
+<path fill-rule="evenodd" d="M797.5 249.5h599V179.1h-599v70.4Z" class="g0_71"/>
+<path d="M797.5 249.5h599V179.1h-599v70.4Z" class="g1_71"/>
+<g clip-path="url(#c0_71)">
+<image preserveAspectRatio="none" x="1322" y="169" width="97" height="108" href="img/4.png"/>
+<image preserveAspectRatio="none" x="842" y="169" width="544" height="108" href="img/5.png"/>
+<image preserveAspectRatio="none" x="812" y="169" width="94" height="108" href="img/6.png"/>
+<image preserveAspectRatio="none" x="796" y="169" width="81" height="108" href="img/7.png"/>
+</g>
+<path fill-rule="evenodd" d="M583.2 768.2h810.1V283.1H583.2V768.2Z" class="g0_71"/>
+<path d="M583.2 768.2h810.1V283.1H583.2V768.2Z" class="g2_71"/>
+<path fill-rule="evenodd" d="M1324 735.2c0-18.3 14.8-33 33-33c18.3 0 33 14.7 33 33c0 18.2-14.7 33-33 33c-18.2 0-33-14.8-33-33Z" class="g3_71"/>
+<path d="M1324 735.2c0-18.3 14.8-33 33-33c18.3 0 33 14.7 33 33c0 18.2-14.7 33-33 33c-18.2 0-33-14.8-33-33Z" class="g4_71"/>
+<image clip-path="url(#c1_71)" preserveAspectRatio="none" x="21" y="283" width="537" height="485" href="img/8.jpg"/>
+<path d="M20.5 768.7H558.3V282.5H20.5V768.7Z" class="g5_71"/>
+</svg>

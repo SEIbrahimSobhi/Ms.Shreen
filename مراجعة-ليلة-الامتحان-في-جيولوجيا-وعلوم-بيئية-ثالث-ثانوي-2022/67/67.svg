@@ -1,0 +1,46 @@
+<svg viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="c0_67"><path d="M-.2 825.3V-.2H1467V825.3Z"/></clipPath>
+<style>
+.g0_67{fill:#DEEBF7;}
+.g1_67{fill:none;stroke:#200CB4;stroke-width:1.145;stroke-linejoin:round;}
+.g2_67{fill:#ECECEC;}
+.g3_67{fill:#00C;}
+.g4_67{fill:none;stroke:#2F528F;stroke-width:1.527;stroke-miterlimit:8;}
+.g5_67{fill:none;stroke:#F00;stroke-width:1.145;stroke-linejoin:round;}
+.g6_67{fill:#F00;}
+</style>
+</defs>
+<g clip-path="url(#c0_67)">
+<image preserveAspectRatio="none" x="-14" y="0" width="1495" height="825" href="img/1.jpg"/>
+<image preserveAspectRatio="none" x="399" y="36" width="752" height="94" href="img/2.png"/>
+<image preserveAspectRatio="none" x="314" y="36" width="141" height="94" href="img/3.png"/>
+</g>
+<path fill-rule="evenodd" d="M797.5 249.5h599V179.1h-599v70.4Z" class="g0_67"/>
+<path d="M797.5 249.5h599V179.1h-599v70.4Z" class="g1_67"/>
+<g clip-path="url(#c0_67)">
+<image preserveAspectRatio="none" x="1322" y="169" width="97" height="108" href="img/4.png"/>
+<image preserveAspectRatio="none" x="842" y="169" width="544" height="108" href="img/5.png"/>
+<image preserveAspectRatio="none" x="812" y="169" width="94" height="108" href="img/6.png"/>
+<image preserveAspectRatio="none" x="796" y="169" width="81" height="108" href="img/7.png"/>
+</g>
+<path fill-rule="evenodd" d="M73.3 696.1h1320V388.7H73.3V696.1Z" class="g2_67"/>
+<path d="M73.3 696.1h1320V388.7H73.3V696.1Z" class="g1_67"/>
+<path fill-rule="evenodd" d="M1324.8 660.6c0-18.3 14.7-33.1 33-33.1c18.2 0 33 14.8 33 33.1c0 18.2-14.8 33-33 33c-18.3 0-33-14.8-33-33Z" class="g3_67"/>
+<path d="M1324.8 660.6c0-18.3 14.7-33.1 33-33.1c18.2 0 33 14.8 33 33.1c0 18.2-14.8 33-33 33c-18.3 0-33-14.8-33-33Z" class="g4_67"/>
+<path fill-rule="evenodd" d="M1147.9 346.9h248.6V276.5H1147.9v70.4Z" class="g0_67"/>
+<path d="M1147.9 346.9h248.6V276.5H1147.9v70.4Z" class="g5_67"/>
+<image clip-path="url(#c0_67)" preserveAspectRatio="none" x="1169" y="266" width="210" height="108" href="img/8.png"/>
+<path fill-rule="evenodd" d="M76.5 342.7H324.9V272.3H76.5v70.4Z" class="g0_67"/>
+<path d="M76.5 342.7H324.9V272.3H76.5v70.4Z" class="g5_67"/>
+<image clip-path="url(#c0_67)" preserveAspectRatio="none" x="107" y="262" width="191" height="108" href="img/9.png"/>
+<path fill-rule="evenodd" d="M433.6 345H682V274.6H433.6V345Z" class="g0_67"/>
+<path d="M433.6 345H682V274.6H433.6V345Z" class="g5_67"/>
+<image clip-path="url(#c0_67)" preserveAspectRatio="none" x="485" y="264" width="150" height="109" href="img/10.png"/>
+<path fill-rule="evenodd" d="M790.7 342.7h248.6V272.3H790.7v70.4Z" class="g0_67"/>
+<path d="M790.7 342.7h248.6V272.3H790.7v70.4Z" class="g5_67"/>
+<image clip-path="url(#c0_67)" preserveAspectRatio="none" x="787" y="262" width="259" height="108" href="img/11.png"/>
+<path d="M1131.8 306H1073v6.9h58.8Zm-55.4-6.8l-20.6 10.3l20.6 10.3Z" class="g6_67"/>
+<path d="M775.4 303.5H716.6v6.8h58.8ZM720 296.6l-20.6 10.3L720 317.2Z" class="g6_67"/>
+<path d="M417.4 306.9H358.6v6.9h58.8ZM362 300.1l-20.6 10.3L362 320.7Z" class="g6_67"/>
+</svg>

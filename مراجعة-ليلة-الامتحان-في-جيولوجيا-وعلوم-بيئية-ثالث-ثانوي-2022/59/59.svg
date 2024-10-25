@@ -1,0 +1,37 @@
+<svg viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="c0_59"><path d="M-.2 825.3V-.2H1467V825.3Z"/></clipPath>
+<clipPath id="c1_59"><path d="M12.9 778.4V260.9H550.7V778.4Z"/></clipPath>
+<style>
+.g0_59{fill:#DEEBF7;}
+.g1_59{fill:none;stroke:#200CB4;stroke-width:1.145;stroke-linejoin:round;}
+.g2_59{fill:#FFF2CC;}
+.g3_59{fill:none;stroke:#F00;stroke-width:1.527;stroke-miterlimit:8;}
+.g4_59{fill:#00C;}
+.g5_59{fill:none;stroke:#2F528F;stroke-width:1.527;stroke-miterlimit:8;}
+.g6_59{fill:#FBE5D6;}
+.g7_59{fill:none;stroke:#F00;stroke-width:4.583;stroke-linejoin:round;}
+</style>
+</defs>
+<g clip-path="url(#c0_59)">
+<image preserveAspectRatio="none" x="-14" y="0" width="1495" height="825" href="img/1.jpg"/>
+<image preserveAspectRatio="none" x="399" y="36" width="752" height="94" href="img/2.png"/>
+<image preserveAspectRatio="none" x="314" y="36" width="141" height="94" href="img/3.png"/>
+</g>
+<path fill-rule="evenodd" d="M797.5 249.5h599V179.1h-599v70.4Z" class="g0_59"/>
+<path d="M797.5 249.5h599V179.1h-599v70.4Z" class="g1_59"/>
+<g clip-path="url(#c0_59)">
+<image preserveAspectRatio="none" x="1322" y="169" width="97" height="108" href="img/4.png"/>
+<image preserveAspectRatio="none" x="842" y="169" width="544" height="108" href="img/5.png"/>
+<image preserveAspectRatio="none" x="812" y="169" width="94" height="108" href="img/6.png"/>
+<image preserveAspectRatio="none" x="796" y="169" width="81" height="108" href="img/7.png"/>
+</g>
+<path fill-rule="evenodd" d="M560.8 745.6h832.5V319.7H560.8V745.6Z" class="g2_59"/>
+<path d="M560.8 745.6h832.5V319.7H560.8V745.6Z" class="g1_59"/>
+<image clip-path="url(#c1_59)" preserveAspectRatio="none" x="13" y="261" width="537" height="517" href="img/8.jpg"/>
+<path d="M12.4 778.8H551.1V260.5H12.4V778.8Z" class="g3_59"/>
+<path fill-rule="evenodd" d="M1327.9 708.2c0-18.2 14.8-33 33-33c18.2 0 33 14.8 33 33c0 18.2-14.8 33-33 33c-18.2 0-33-14.8-33-33Z" class="g4_59"/>
+<path d="M1327.9 708.2c0-18.2 14.8-33 33-33c18.2 0 33 14.8 33 33c0 18.2-14.8 33-33 33c-18.2 0-33-14.8-33-33Z" class="g5_59"/>
+<path fill-rule="evenodd" d="M623.8 450.5H989V380.3H623.8v70.2Z" class="g6_59"/>
+<path d="M623.8 450.5H989V380.3H623.8v70.2Z" class="g7_59"/>
+</svg>
