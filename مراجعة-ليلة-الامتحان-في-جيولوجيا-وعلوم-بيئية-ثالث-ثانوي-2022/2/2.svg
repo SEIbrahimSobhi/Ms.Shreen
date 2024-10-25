@@ -1,0 +1,44 @@
+<svg viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="c0_2"><path d="M-.2 825.3V-.2H1467V825.3Z"/></clipPath>
+<clipPath id="c1_2"><path d="M1174.8 766.8V546.2h220.7V766.8Z"/></clipPath>
+<clipPath id="c2_2"><path d="M74.8 766.5V546.2H295.5V766.5Z"/></clipPath>
+<clipPath id="c3_2"><path d="M624.8 766.8V546.2H845.5V766.8Z"/></clipPath>
+<style>
+.g0_2{fill:#F4B183;}
+.g1_2{fill:none;stroke:#000;stroke-width:1.145;stroke-linejoin:round;}
+.g2_2{fill:none;stroke:#FF0;stroke-width:1.145;stroke-linejoin:round;}
+.g3_2{fill:#F1F0F0;}
+.g4_2{fill:#B4C7E7;}
+.g5_2{fill:#00C;}
+.g6_2{fill:none;stroke:#2F528F;stroke-width:1.527;stroke-miterlimit:8;}
+</style>
+</defs>
+<g clip-path="url(#c0_2)">
+<image preserveAspectRatio="none" x="-14" y="0" width="1495" height="825" href="img/1.jpg"/>
+<image preserveAspectRatio="none" x="399" y="36" width="752" height="94" href="img/2.png"/>
+<image preserveAspectRatio="none" x="314" y="36" width="141" height="94" href="img/3.png"/>
+</g>
+<path fill-rule="evenodd" d="M1175.2 506.7h220v-66h-220v66Z" class="g0_2"/>
+<path d="M1175.2 506.7h220v-66h-220v66Z" class="g1_2"/>
+<image clip-path="url(#c0_2)" preserveAspectRatio="none" x="1227" y="429" width="119" height="108" href="img/4.png"/>
+<image clip-path="url(#c1_2)" preserveAspectRatio="none" x="1175" y="547" width="220" height="220" href="img/5.png"/>
+<path d="M1174.6 767.1h221.1V545.9H1174.6V767.1Z" class="g2_2"/>
+<path fill-rule="evenodd" d="M75.2 494.6h220v-66H75.2v66Z" class="g3_2"/>
+<path d="M75.2 494.6h220v-66H75.2v66Z" class="g1_2"/>
+<image clip-path="url(#c0_2)" preserveAspectRatio="none" x="112" y="417" width="150" height="108" href="img/6.png"/>
+<image clip-path="url(#c2_2)" preserveAspectRatio="none" x="75" y="547" width="220" height="219" href="img/7.jpg"/>
+<path d="M74.6 766.7H295.7V545.9H74.6V766.7Z" class="g2_2"/>
+<path fill-rule="evenodd" d="M625.2 496.1h220v-66h-220v66Z" class="g4_2"/>
+<path d="M625.2 496.1h220v-66h-220v66Z" class="g1_2"/>
+<image clip-path="url(#c0_2)" preserveAspectRatio="none" x="657" y="418" width="159" height="108" href="img/8.png"/>
+<image clip-path="url(#c3_2)" preserveAspectRatio="none" x="625" y="547" width="220" height="220" href="img/9.jpg"/>
+<path d="M624.6 767.1H845.7V545.9H624.6V767.1Z" class="g2_2"/>
+<path fill-rule="evenodd" d="M446.6 285.1H590.9V220.4H879.5v64.7h144.2L735.2 349.8Z" class="g5_2"/>
+<path d="M446.6 285.1H590.9V220.4H879.5v64.7h144.2L735.2 349.8Z" class="g6_2"/>
+<g clip-path="url(#c0_2)">
+<image preserveAspectRatio="none" x="579" y="218" width="316" height="121" href="img/10.png"/>
+<image preserveAspectRatio="none" x="399" y="36" width="752" height="94" href="img/11.png"/>
+<image preserveAspectRatio="none" x="314" y="36" width="141" height="94" href="img/12.png"/>
+</g>
+</svg>
