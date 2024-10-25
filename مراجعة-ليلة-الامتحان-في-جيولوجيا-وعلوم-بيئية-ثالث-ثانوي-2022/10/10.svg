@@ -1,0 +1,37 @@
+<svg viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="c0_10"><path d="M-.2 825.3V-.2H1467V825.3Z"/></clipPath>
+<clipPath id="c1_10"><path d="M25 737V299.1H652.4V737Z"/></clipPath>
+<style>
+.g0_10{fill:#DEEBF7;}
+.g1_10{fill:none;stroke:#200CB4;stroke-width:1.145;stroke-linejoin:round;}
+.g2_10{fill:none;stroke:#F00;stroke-width:1.145;stroke-linejoin:round;}
+.g3_10{fill:#E2F0D9;}
+.g4_10{fill:#00C;}
+.g5_10{fill:none;stroke:#2F528F;stroke-width:1.527;stroke-miterlimit:8;}
+</style>
+</defs>
+<g clip-path="url(#c0_10)">
+<image preserveAspectRatio="none" x="-14" y="0" width="1495" height="825" href="img/1.jpg"/>
+<image preserveAspectRatio="none" x="399" y="36" width="752" height="94" href="img/2.png"/>
+<image preserveAspectRatio="none" x="314" y="36" width="141" height="94" href="img/3.png"/>
+</g>
+<path fill-rule="evenodd" d="M797.5 249.5h599V179.1h-599v70.4Z" class="g0_10"/>
+<path d="M797.5 249.5h599V179.1h-599v70.4Z" class="g1_10"/>
+<g clip-path="url(#c0_10)">
+<image preserveAspectRatio="none" x="1322" y="169" width="97" height="108" href="img/4.png"/>
+<image preserveAspectRatio="none" x="842" y="169" width="544" height="108" href="img/5.png"/>
+<image preserveAspectRatio="none" x="812" y="169" width="94" height="108" href="img/6.png"/>
+<image preserveAspectRatio="none" x="796" y="169" width="81" height="108" href="img/7.png"/>
+</g>
+<image clip-path="url(#c1_10)" preserveAspectRatio="none" x="25" y="299" width="627" height="438" href="img/8.jpg"/>
+<path d="M24.7 737.2h628V298.8H24.7V737.2Z" class="g2_10"/>
+<path fill-rule="evenodd" d="M678 731.5h686.6V296.6H678V731.5Z" class="g3_10"/>
+<path d="M678 731.5h686.6V296.6H678V731.5Z" class="g2_10"/>
+<path fill-rule="evenodd" d="M1298.6 637.5c0-18.3 14.7-33 33-33c18.2 0 32.9 14.7 32.9 33c0 18.2-14.7 33-32.9 33c-18.3 0-33-14.8-33-33Z" class="g4_10"/>
+<path d="M1298.6 637.5c0-18.3 14.7-33 33-33c18.2 0 32.9 14.7 32.9 33c0 18.2-14.7 33-32.9 33c-18.3 0-33-14.8-33-33Z" class="g5_10"/>
+<g clip-path="url(#c0_10)">
+<image preserveAspectRatio="none" x="399" y="36" width="752" height="94" href="img/9.png"/>
+<image preserveAspectRatio="none" x="314" y="36" width="141" height="94" href="img/10.png"/>
+</g>
+</svg>
