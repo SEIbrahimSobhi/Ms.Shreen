@@ -224,23 +224,24 @@ body {
     margin-bottom: 30px;
 }
 
+        
 /* تصميم الأيقونات */
 .contact-icons {
     display: flex;
     justify-content: center;
-    gap: 60px;
+    gap: 60px; /* زيادة المسافة بين الأيقونات */
     margin-bottom: 30px;
 }
 
 .contact-icon {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center; /* توسيط العناصر */
 }
 
 .contact-icons a {
     color: #00bfff;
-    font-size: 32px;
+    font-size: 32px; /* حجم أكبر للأيقونات */
     text-decoration: none;
     transition: transform 0.3s ease, color 0.3s;
 }
@@ -252,8 +253,8 @@ body {
 
 .contact-number {
     font-size: 16px;
-    color: #fff;
-    margin-top: 5px;
+    color: #fff; /* لون النص */
+    margin-top: 5px; /* مساحة بين الأيقونة والنص */
     text-align: center;
 }
 
@@ -265,7 +266,7 @@ body {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    margin: auto;
+    margin: auto; /* توسيط النموذج */
 }
 
 .form-group {
@@ -294,8 +295,8 @@ body {
 }
 
 .form-group textarea {
-    width: 100%;
-    height: 150px;
+    width: 100%; /* جعل الحقل أوسع */
+    height: 150px; /* زيادة الارتفاع */
     padding: 10px;
     border-radius: 5px;
     border: none;
@@ -317,65 +318,70 @@ body {
 .submit-btn {
     width: 100%;
     padding: 12px;
-    background-color: #00bfff;
-    color: #333;
-    border: none;
-    border-radius: 5px;
-    font-size: 18px;
-    cursor: pointer;
-    transition: background-color 0.3s ease, transform 0.3s, box-shadow 0.3s;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #00bfff; /* اللون الأساسي */
+    color: #333; /* لون النص */
+    border: none; /* إزالة الحدود */
+    border-radius: 5px; /* زوايا مستديرة */
+    font-size: 18px; /* حجم الخط */
+    cursor: pointer; /* تغيير شكل المؤشر عند المرور فوق الزر */
+    transition: background-color 0.3s ease, transform 0.3s, box-shadow 0.3s; /* إضافة تأثيرات انتقالية */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* إضافة ظل خفيف */
 }
 
 .submit-btn:hover {
-    background-color: #00bfff;
-    transform: translateY(-2px);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    background-color: #00bfff; /* تغيير اللون عند التحويم */
+    transform: translateY(-2px); /* رفع الزر قليلاً */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* زيادة الظل عند التحويم */
 }
 
 .submit-btn:active {
-    transform: translateY(0);
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transform: translateY(0); /* إعادة الزر لموقعه الأصلي عند الضغط */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* إعادة الظل الأصلي عند الضغط */
 }
 
 /* التصميم المتجاوب */
 @media (max-width: 600px) {
     .form-group {
-        flex-direction: column;
-        margin-bottom: 15px;
+        flex-direction: column; /* تغيير اتجاه العناصر في الحقل */
+        margin-bottom: 15px; /* تقليل المسافة بين الحقول */
     }
 
     .form-group input,
     .form-group textarea {
-        width: 100%;
-        margin-bottom: 10px;
-        font-size: 16px;
-        padding: 10px;
+        width: 100%; /* توسيع الحقول لتملأ العرض بالكامل */
+        margin-bottom: 10px; /* إضافة مساحة بين الحقول */
     }
 
     .contact-form {
-        padding: 15px;
+        padding: 15px; /* تقليل padding للنموذج */
     }
 
     .submit-btn {
-        font-size: 16px;
-        padding: 10px;
+        font-size: 16px; /* تقليل حجم الخط في زر الإرسال */
+        padding: 10px; /* تقليل padding في زر الإرسال */
     }
-
-    .footer {
-        padding: 15px;
-        font-size: 14px;
-    }
-
-    img {
-        max-width: 100%;
-        height: auto;
-    }
-
-    .contact-icons a {
-        font-size: 24px;
-    }
+    /* إعداد الصفحة */
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
 }
+
+/* محتوى الصفحة */
+.main-content {
+    flex: 1; /* يأخذ المساحة المتبقية */
+    padding: 20px;
+    background-color: #f0f0f0; /* لون الخلفية للمحتوى */
+}
+
+/* نموذج الإرسال */
+.form-container {
+    margin-bottom: 20px; /* توفير مساحة تحت النموذج */
+}
+}
+
+/* الفوتر */
 
 /* الفوتر */
 .footer {
