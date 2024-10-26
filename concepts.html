@@ -230,7 +230,8 @@
             font-weight: bold;
             text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
         }
-        /* تصميم الوحدات */
+        
+/* تصميم الوحدات */
 .rectangles-container {
     display: flex;
     justify-content: center;
@@ -296,17 +297,20 @@
     }
 }
 
-/* عرض المستطيلات بشكل مزدوج على الشاشات الصغيرة */
+/* عرض المستطيلات بشكل أفقي بالكامل على الشاشات الصغيرة */
 @media (max-width: 480px) {
     .rectangles-container {
         gap: 10px; /* تقليل التباعد بين الوحدات */
+        flex-wrap: nowrap; /* منع التفاف الوحدات */
+        overflow-x: auto; /* تمكين التمرير الأفقي عند الحاجة */
+        padding: 10px 0; /* تقليل padding للمساعدة في التركيز على المستطيلات */
     }
 
     .rectangle {
-        width: calc(50% - 20px); /* عرض كل مستطيل بحيث يظهر كل اثنين بجانب بعضهما */
+        flex: 0 0 auto; /* الحفاظ على حجم المستطيلات */
+        width: 140px; /* تقليل العرض للشاشات الصغيرة */
         height: 55px;
         font-size: 14px;
-        margin: 10px; /* تقليل المسافة بين المستطيلات */
     }
 }
 
